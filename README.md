@@ -27,6 +27,7 @@ Bienvenue sur ce projet GitHub qui regroupe plusieurs ressources et tutoriels po
   - [Gestion de Projet](#gestion-de-projet)
     - [Sujets abordés :](#sujets-abordés--9)
   - [Comment utiliser ce projet](#comment-utiliser-ce-projet)
+  - [Versions](#versions)
 
 ---
 
@@ -133,7 +134,18 @@ Bienvenue sur ce projet GitHub qui regroupe plusieurs ressources et tutoriels po
 
 1. **Cloner le dépôt** : 
    ```bash
-   git clone https://github.com/ton-utilisateur/ton-projet.git
+   git clone https://github.com/Armotik/learning.git
+
+---
+
+## Versions
+- 1.0 : Java
+  - ArrayList
+  - Piles
+  - Files
+  - Héritage
+  - Polymorphisme
+  - Encapsulation
 
 ---
 
