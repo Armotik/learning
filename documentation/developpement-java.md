@@ -52,9 +52,11 @@
 ### 4. Structures de Données
 #### Files
 - **Concept** : Une file (queue) est une structure de données de type FIFO (First In First Out).
+- Dans la pratique, une file est souvent utilisée pour stocker des éléments à traiter dans l'ordre où ils ont été ajoutés.
 
 #### Piles
 - **Concept** : Une pile (stack) est une structure de données de type LIFO (Last In First Out).
+- Dans la pratique, une pile est souvent utilisée pour stocker des éléments à traiter dans l'ordre inverse de leur ajout.
 
 
 ## Comment utiliser ce répertoire ?
